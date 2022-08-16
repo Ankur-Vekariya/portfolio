@@ -42,10 +42,10 @@ const Home = () => {
         <div className="card-second">
           <div className="container">
             <div className="btn-container">
-              <div className="btn btn--shockwave is-active">React</div>
-              <div className="btn btn--shockwave is-active">React</div>
-              <div className="btn btn--shockwave is-active">React</div>
-              <div className="btn btn--shockwave is-active">React</div>
+              <div className="btn btn--shockwave is-active"><p>HTML</p></div>
+              <div className="btn btn--shockwave is-active"><p>CSS</p></div>
+              <div className="btn btn--shockwave is-active"><p>JAVASCRIPT</p></div>
+              <div className="btn btn--shockwave is-active"><p>REACT JS</p></div>
             </div>
           </div>
         </div>
