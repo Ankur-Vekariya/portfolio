@@ -1,7 +1,7 @@
 import React from "react";
 import "antd/dist/antd.css";
 import "./home.css";
-import { Carousel } from "antd";
+// import { Carousel } from "antd";
 import Navbar from "../Navbar";
 
 const Home = () => {
